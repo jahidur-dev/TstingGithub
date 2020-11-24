@@ -5,4 +5,6 @@ see user list : git config --list
 untrack see files : git status
 
 add files : git add .
-For commit : git comit -m "comit"
+For commit : git comit -m "comit Name"
+
+It's a test Commit
