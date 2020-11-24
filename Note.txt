@@ -1,0 +1,8 @@
+start : git init
+set global UserName : git config --global user.name "jahidur-dev"
+set global UserEmail : git config --global user.email "jahidur.dev@gmail.com"
+see user list : git config --list
+untrack see files : git status
+
+add files : git add .
+For commit : git comit -m "comit"
